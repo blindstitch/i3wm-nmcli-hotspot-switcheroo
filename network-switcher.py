@@ -6,6 +6,7 @@ import subprocess
 
 app_name = 'Network switcher'
 
+# Your networks here
 networks = {
     'hotspot': 'my_hotspot',
     'priority': 'my_home_network'
