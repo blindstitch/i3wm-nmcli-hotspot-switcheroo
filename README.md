@@ -3,7 +3,9 @@
 My internet at home is unreliable; I switch between my hotspot and my home network constantly.
 This script detects which network is connected and issues the appropriate commands to `nmcli` to switch between them.
 
-`nmcli`-based script for i3wm to switch between a hotspot and another network.
+## requires
+
+ - `nmcli`
 
 ## usage
 
