@@ -7,7 +7,7 @@ A notification is posted via `notify-send` of network status.
 ## requires
 
  - `nmcli`
- - `notify-send` (Tested on Ubuntu-Gnome)
+ - `notify-send` (tested on Ubuntu-Gnome)
 
 ## usage
 
